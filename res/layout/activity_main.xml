@@ -18,16 +18,18 @@
 	        android:id="@+id/fidSpinner"  
 	        android:layout_width="0dip"
 	        android:layout_height="wrap_content"
-	        android:layout_weight="1" /> 
-	    
-	    <Button 
-	        android:id="@+id/checkCardButton"  
+	        android:layout_weight="1" />
+        
+        <Button 
+	        android:id="@+id/startButton"  
 	        android:layout_width="0dip"
 	        android:layout_height="wrap_content"
 	        android:layout_weight="1"
-	        android:text="@string/check_card" />
+	        android:text="@string/start" />
         
     </LinearLayout>
+    
+    
     
     <LinearLayout 
         android:layout_width="fill_parent"
@@ -49,7 +51,7 @@
             android:layout_height="fill_parent"
             android:layout_marginLeft="5dip"
 	    	android:layout_marginRight="5dip"
-            android:editable="true" />
+            android:editable="false" />
     </LinearLayout>
     
 </LinearLayout>
