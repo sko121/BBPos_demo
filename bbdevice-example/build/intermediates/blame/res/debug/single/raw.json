@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/thtfit/charo/EMV/pos/bbpos/chipper 2X/BBDevice-Android-SDK-3.2.2/BBDeviceAPI-Android-Example-3.2.2/bbdevice-example/build/intermediates/res/merged/debug/raw/barcode.png",
+        "source": "/home/thtfit/charo/EMV/pos/bbpos/chipper 2X/BBDevice-Android-SDK-3.2.2/BBDeviceAPI-Android-Example-3.2.2/bbdevice-example/src/main/res/raw/barcode.png"
+    },
+    {
+        "merged": "/home/thtfit/charo/EMV/pos/bbpos/chipper 2X/BBDevice-Android-SDK-3.2.2/BBDeviceAPI-Android-Example-3.2.2/bbdevice-example/build/intermediates/res/merged/debug/raw/bbpos.jpg",
+        "source": "/home/thtfit/charo/EMV/pos/bbpos/chipper 2X/BBDevice-Android-SDK-3.2.2/BBDeviceAPI-Android-Example-3.2.2/bbdevice-example/src/main/res/raw/bbpos.jpg"
+    }
+]

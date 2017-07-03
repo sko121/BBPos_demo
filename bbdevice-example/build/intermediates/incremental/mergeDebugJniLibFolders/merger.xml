@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/thtfit/charo/EMV/pos/bbpos/chipper 2X/BBDevice-Android-SDK-3.2.2/BBDeviceAPI-Android-Example-3.2.2/bbdevice-example/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/thtfit/charo/EMV/pos/bbpos/chipper 2X/BBDevice-Android-SDK-3.2.2/BBDeviceAPI-Android-Example-3.2.2/bbdevice-example/src/debug/jniLibs"/></dataSet></merger>
