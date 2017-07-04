@@ -23,7 +23,6 @@
                     android:id="@+id/general1TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -45,7 +44,6 @@
                     android:id="@+id/general2TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -67,7 +65,6 @@
                     android:id="@+id/general3TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -89,7 +86,6 @@
                     android:id="@+id/general4TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -111,7 +107,6 @@
                     android:id="@+id/general5TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -139,25 +134,25 @@
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:checked="true"
-                        android:text="" />
+                         />
 
                     <RadioButton
                         android:id="@+id/radio2Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text="" />
+                        />
 
                     <RadioButton
                         android:id="@+id/radio3Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text="" />
+                         />
 
                     <RadioButton
                         android:id="@+id/radio4Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text="" />
+                         />
                 </RadioGroup>
             </LinearLayout>
 

@@ -8,21 +8,21 @@
         android:id="@+id/kekEditText"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="KEK"
+        android:text="@string/kek"
         android:hint="@string/bdk" />
     
     <EditText
         android:id="@+id/mkEditText"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="0123456789ABCDEFFEDCBA9876543210"
+        android:text="@string/key_number"
         android:hint="@string/mk" />
     
     <EditText
         android:id="@+id/ksnEditText"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="0123456789ABCDEF"
+        android:text="@string/key_number_s"
         android:hint="@string/ks" />
     
     <LinearLayout

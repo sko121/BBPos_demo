@@ -23,7 +23,6 @@
                     android:id="@+id/general1TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -47,7 +46,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:checked="true"
-                    android:text=""
                     android:textSize="12sp" />
             </LinearLayout>
 
@@ -62,7 +60,6 @@
                     android:id="@+id/general3TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -84,7 +81,6 @@
                     android:id="@+id/general4TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -106,7 +102,6 @@
                     android:id="@+id/general5TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -134,28 +129,24 @@
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:checked="true"
-                        android:text=""
                         android:textSize="12sp" />
 
                     <RadioButton
                         android:id="@+id/radio2Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text=""
                         android:textSize="12sp" />
 
                     <RadioButton
                         android:id="@+id/radio3Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text=""
                         android:textSize="12sp" />
 
                     <RadioButton
                         android:id="@+id/radio4Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text=""
                         android:textSize="12sp" />
                 </RadioGroup>
             </LinearLayout>
@@ -173,7 +164,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:checked="true"
-                    android:text=""
                     android:textSize="12sp" />
             </LinearLayout>
 
@@ -188,7 +178,6 @@
                     android:id="@+id/general8TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -210,7 +199,6 @@
                     android:id="@+id/general9TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -232,7 +220,6 @@
                     android:id="@+id/general10TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -260,28 +247,24 @@
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:checked="true"
-                        android:text=""
                         android:textSize="12sp" />
 
                     <RadioButton
                         android:id="@+id/radio6Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text=""
                         android:textSize="12sp" />
 
                     <RadioButton
                         android:id="@+id/radio7Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text=""
                         android:textSize="12sp" />
 
                     <RadioButton
                         android:id="@+id/radio8Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text=""
                         android:textSize="12sp" />
                 </RadioGroup>
             </LinearLayout>
@@ -299,7 +282,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:checked="true"
-                    android:text=""
                     android:textSize="12sp" />
             </LinearLayout>
 
@@ -314,7 +296,6 @@
                     android:id="@+id/general13TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -336,7 +317,6 @@
                     android:id="@+id/general14TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -358,7 +338,6 @@
                     android:id="@+id/general15TextView"
                     android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:textSize="12sp" />
 
                 <EditText
@@ -386,28 +365,24 @@
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:checked="true"
-                        android:text=""
                         android:textSize="12sp" />
 
                     <RadioButton
                         android:id="@+id/radio10Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text=""
                         android:textSize="12sp" />
 
                     <RadioButton
                         android:id="@+id/radio11Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text=""
                         android:textSize="12sp" />
 
                     <RadioButton
                         android:id="@+id/radio12Button"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:text=""
                         android:textSize="12sp" />
                 </RadioGroup>
             </LinearLayout>

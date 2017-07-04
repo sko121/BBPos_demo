@@ -1,0 +1,9 @@
+
+/gen/
+/bin/
+./tags
+./cscope.*
+bin/class/
+*.class
+
+

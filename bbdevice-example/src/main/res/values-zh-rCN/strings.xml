@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string name="kek">KEK</string>
+    <string name="key_number">0123456789ABCDEFFEDCBA9876543210</string>
+    <string name="key_number_s">0123456789ABCDEF</string>
+    <string name="versionCode">1</string>
+    <string name="versionName">3.2.2</string>
     <string name="app_name">BBDevice-范例-3.2.2</string>
     <string name="please_insert_card">请插卡</string>
     <string name="please_swipe_card">请刷卡</string>
