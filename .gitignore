@@ -5,5 +5,7 @@
 ./cscope.*
 bin/class/
 *.class
-
-
+/build
+/gradle/
+*.gradle
+gradle*
